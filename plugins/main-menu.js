@@ -184,8 +184,8 @@ await conn.sendMessage(
     mentionedJid: [m.sender],
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363276986902836@newsletter',
-      newsletterName: 'ᘜOKᑌ-ᗷᒪᗩᑕK-ᗷOT-ᗰᗪ-ᒪITᗴ',
+      newsletterJid: '120363218713824827@newsletter',
+      newsletterName: 'APK-MODS',
       serverMessageId: -1,
     },/*
     forwardingScore: 999,
