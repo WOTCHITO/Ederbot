@@ -64,7 +64,7 @@ global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 
 //Enlaces
 var grupo = 'https://chat.whatsapp.com/GD0al1LF7Ux2dmPF0fDFYZ'
-var canal = 'https://whatsapp.com/channel/0029VaYh3Zm4dTnQKQ3VLT0h'  
+var canal = 'https://whatsapp.com/channel/0029VaFMguNDTkJzaPGXAG3D'  
 var git = '' 
 var youtube = '' 
 var github = '' 
