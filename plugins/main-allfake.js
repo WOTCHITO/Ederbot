@@ -29,7 +29,7 @@ console.log(`Error : ${e}`)
 
 let pp = ''
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
-//let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/22ca78070f722917ced75.jpg')
+//let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://files.catbox.moe/0wbqxs.jpg')
 
 //creador y otros
 global.creador = 'Wa.me/595972157130'
