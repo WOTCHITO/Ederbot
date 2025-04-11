@@ -19,7 +19,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
     }
 
     if (m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_ADD) {
-      let bienvenida = `🌱 *Bienvenido* a ${groupMetadata.subject}\n ${taguser}\n Disfruta tu estadía en el grupo!`
+      let bienvenida = `🌱 *Bienvenido* a ${groupMetadata.subject}\n ${taguser}\n Disfruta tu estadía en el grupo, sigue nuestro canal donde subimos mods todo los dias https://whatsapp.com/channel/0029VaFMguNDTkJzaPGXAG3D!`
       await conn.sendMessage(m.chat, { image: img, caption: bienvenida, mentions: [who] })
     } else if (m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_REMOVE || m.messageStubType === WAMessageStubType.GROUP_PARTICIPANT_LEAVE) {
       let bye = `💮 *Adiós* De ${groupMetadata.subject}\n ${taguser}\n Te esperamos pronto!`
