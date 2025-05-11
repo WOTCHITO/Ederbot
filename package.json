@@ -1,5 +1,5 @@
 {
-"name":"Goku-Black-Bot-MD",
+"name":"Nexus-Bot-MD",
 "version":"2.0.0",
 "description": "El Mejor Bot De WhatsApp",
 "main": "index.js",
@@ -21,7 +21,7 @@
 },
 "homepage": "https://github.com/Eliasivan/Goku-Black-Bot-MD",
 "author": {
-"name": "Eliasivan" },
+"name": "Edermods" },
 "repository": {
 "type": "git",
 "url": "git+https://github.com/Eliasivan/Goku-Black-Bot-MD.git" },
