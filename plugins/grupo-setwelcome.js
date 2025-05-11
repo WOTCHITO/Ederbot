@@ -1,11 +1,12 @@
-const handler = async (m, {conn, text, isROwner, isOwner}) => {
-  if (text) {
-    global.db.data.chats[m.chat].sWelcome = text;
-    m.reply('[❗] MENSAJE DE BIENVENIDA CONFIGURADO CORRECTAMENTE PARA ESTE GRUPO*');
-  } else throw `[❗] INGRESE EL MENSAJE DE BIENVENIDA QUE DESEE AGREGAR, USE:*\n*- @user (mención)*\n*- @group (nombre de grupo)*\n*- @desc (description de grupo)*`;
-};
-handler.help = ['setwelcome <text>'];
-handler.tags = ['group'];
-handler.command = ['setwelcome'];
-handler.admin = true;
-export default handler;
+let handler = async (m, { conn, text, isROwner, isOwner }) => {
+if (text) {
+global.db.data.chats[m.chat].sWelcome = text
+conn.reply(m.chat, lenguajeGB.smsSetW(), fkontak, m)
+//conn.sendButton(m.chat, wm, lenguajeGB['smsSetW'](), null, [[lenguajeGB.smsConMenu(), `/menu`]], fkontak, m)
+} else throw `${lenguajeGB['smsSetW2']()}`
+}
+handler.command = ['setwelcome', 'bienvenida'] 
+handler.botAdmin = true
+handler.admin = true
+handler.group = true
+export default handler
