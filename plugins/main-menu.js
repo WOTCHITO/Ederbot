@@ -31,11 +31,11 @@ let tags = {
 
 const defaultMenu = {
   before: `╭══════════════ ⪩
-“ Hola *Humano* mi nombre es *Goku-Black-Bot-MD-Lite*, %greeting ”
+“ Hola *Humano* mi nombre es *Nexus-Bot-MD-Lite*, %greeting ”
 
 ╔══✦「 Info del Bot 」✦══╗
-║ ✧ 👩‍💻 Creador: Ivan
-║ ✧ 🌀 Tipo Bot: Goku-Black-Bot-MD-Lite
+║ ✧ 👩‍💻 Creador: EDER
+║ ✧ 🌀 Tipo Bot: Nexus-Bot-MD-Lite
 ║ ✧ 🚩 Modo: Público
 ║ ✧ 📚 Baileys: Multi Device
 ║ ✧ ⏱️ Tiempo Activo: %uptime
@@ -190,7 +190,7 @@ await conn.sendMessage(
     },/*
     forwardingScore: 999,
     externalAdReply: {
-      title: '𝐆𝐨𝐤𝐮-𝐁𝐥𝐚𝐜𝐤-𝐁𝐨𝐭-𝐌𝐃-𝐋𝐢𝐭𝐞',
+      title: 'Nexus-𝐁𝐨𝐭-𝐌𝐃-𝐋𝐢𝐭𝐞',
       body: dev,
       thumbnailUrl: icono,
       sourceUrl: redes,
