@@ -12,8 +12,8 @@ global.confirmCode = ''
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
 ['573507594335', '𝐂𝐫𝐞𝐚𝐝𝐨𝐫 🧑‍💻', true],
-['59169739411', 'Soporte', true],
-['595972157130']
+['573507594335', 'Soporte', true],
+['3507594335']
 ];
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
@@ -72,7 +72,7 @@ global.photoSity = [imagen8, imagen1, imagen4, imagen6]
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.languaje = 'Español'
-global.nameqr = 'GokuBlack-Bot'
+global.nameqr = 'Nexus-Bot'
 global.sessions = 'Blacksesion'
 global.jadi = 'jadibots'
 global.hutaoJadibts = true
