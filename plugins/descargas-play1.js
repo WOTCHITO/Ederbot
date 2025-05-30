@@ -16,7 +16,7 @@ let apiVid = await fetch(`https://api.agungny.my.id/api/youtube-video?url=${'htt
 let dataVid = await apiVid.json()
 
 
-let txt = `*♫︎ Goku-Black-Bot-MD ♫︎*
+let txt = `*♫︎ Nexus-Bot-MD ♫︎*
 ☆ 𝑇𝐼𝑇𝑈𝐿𝑂: ${res[0].title}
 ☆ 𝘋𝘶𝘳𝘢𝘤𝘪𝘰𝘯: ${res[0].timestamp}
 ☆ 𝘝𝘐𝘚𝘛𝘈𝘚: ${res[0].views}
