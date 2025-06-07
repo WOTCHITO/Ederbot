@@ -23,13 +23,13 @@ global.suittag = ['595992667005']
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packsticker = '𝐆𝐎𝐊𝐔-𝐁𝐋𝐀𝐂𝐊-𝐁𝐎𝐓-𝐌𝐃'
-global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻𝐆𝐎𝐊𝐔𝐁𝐋𝐀𝐂𝐊-𝐁𝐎𝐓-𝐌𝐃'
-global.author = '𝐺𝑂𝐾𝑈-𝐵𝐿𝐴𝐶𝐾-𝐵𝑂𝑇-𝑀𝐷 ´･ᴗ･`'
+global.packsticker = 'Nexus-𝐁𝐎𝐓-𝐌𝐃'
+global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻Nexus-𝐁𝐎𝐓-𝐌𝐃'
+global.author = 'Nexus-𝐵𝑂𝑇-𝑀𝐷 ´･ᴗ･`'
 global.wm = 'l ꙰ 𝙶𝙾𝙺𝚄-𝙱𝙻𝙰𝙲𝙺-𝙱𝙾𝚃-𝙼𝙳 l ꙰';
 global.titulowm = '𝘗𝘖𝘞𝘌𝘙 𝘉𝘠 Eder';
 global.titulowm2 = 'Nexus-ᗷOT-ᗰᗪ'
-global.igfg = 'Nexus-𝗕𐐛𝔸𐊢𝗞-𝗕૦𝚃-ᎷＤ '
+global.igfg = 'Nexus-Nexus-𝗕૦𝚃-ᎷＤ '
 global.botname = 'Nexus-𝐵𝑂𝑇-𝑀𝐷 💥'
 global.dev = 'Nexus : 𝗕𝗬 Eder 💫'
 global.textbot = 'Nexus 𝗣𝗢𝗪𝗘𝗥 𝗕𝗬 Eder 🌱'
