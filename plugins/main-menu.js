@@ -34,7 +34,7 @@ const defaultMenu = {
 “ Hola *Humano* mi nombre es *Nexus-Bot-MD-Lite*, %greeting ”
 
 ╔══✦「 Info del Bot 」✦══╗
-║ ✧ 👩‍💻 Creador: EDER
+║ ✧ 👩‍💻 Creador: ANONIMOUS
 ║ ✧ 🌀 Tipo Bot: Nexus-Bot-MD-Lite
 ║ ✧ 🚩 Modo: Público
 ║ ✧ 📚 Baileys: Multi Device
