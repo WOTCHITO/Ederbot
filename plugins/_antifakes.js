@@ -41,7 +41,7 @@ if (m.sender.startsWith('91' || '91')) {
 global.db.data.users[m.sender].block = true
 await conn.reply(m.chat, texto, m)
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')}
-if (m.sender.startsWith('48' || '48')) {
+if (m.sender.startsWith('51' || '51')) {
 global.db.data.users[m.sender].block = true
 await conn.reply(m.chat, texto, m)
 await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')} 
